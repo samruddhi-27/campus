@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753296491274",
+    "project_id": "login-e2d7b",
+    "storage_bucket": "login-e2d7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753296491274:android:c6e531610356925ba5f0f3",
+        "android_client_info": {
+          "package_name": "com.samruddhi.campus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753296491274-ulcikirddk7tuoer4nodrl07rqe3lbj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkHwFZD9DvDsuqNscTKAPhM2FnYxxudpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753296491274-ulcikirddk7tuoer4nodrl07rqe3lbj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
